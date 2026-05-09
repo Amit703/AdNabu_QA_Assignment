@@ -1,0 +1,15 @@
+Product Search — Test Cases
+1.	Verify that searching with a valid product name returns matching products.
+2.	Verify that searching with a partial keyword returns related products.
+3.	Verify that searching with an invalid product name shows no results message. (Negative Case)
+4.	Verify that the search is case-insensitive.
+5.	Verify that searching with special characters does not break the application. (Edge Case)
+6.	Verify that searching with an empty search field does not perform invalid search. (Negative Case)
+________________________________________
+Add to Cart — Test Cases
+1.	Verify that a user can add an available product to the cart successfully.
+2.	Verify that multiple quantities of the same product can be added to the cart.
+3.	Verify that out-of-stock products cannot be added to the cart. (Negative Case)
+4.	Verify that the cart retains added products after page refresh.
+5.	Verify that adding a product without selecting required options is restricted. (Negative Case)
+6.	Verify that the system handles adding a very high product quantity correctly. (Edge Case)
