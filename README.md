@@ -1,4 +1,4 @@
-# AbNabu_QA_Assignment
+# AdNabu_QA_Assignment
 Task 1: Test Design
 ● Write 6 high-quality test cases for a) Product Search and b) Add to Cart
 - Requirements: 1. Must include positive + negative cases
